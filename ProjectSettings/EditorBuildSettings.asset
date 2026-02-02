@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Samples/Magic Leap SDK/2.6.0/Eye Gaze sample/EyeGazeSample.unity
     guid: 3102e5ef8f0383046b65734910d01a87
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/Magic Leap SDK/2.6.0/Global Dimmer sample/GlobalDimmerSample.unity
     guid: 2d745378daed3024aa14a8659d3e91d1
+  - enabled: 1
+    path: Assets/Samples/Magic Leap SDK/2.6.0/Marker Understanding sample/MarkerUnderstandingSample.unity
+    guid: 9cde533f07cffca40959a5f5483f8ee0
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 58ee9710d232675439cb5bbd1b172002, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b68d7d2c62c55a845a33253ca11c2be1, type: 2}
